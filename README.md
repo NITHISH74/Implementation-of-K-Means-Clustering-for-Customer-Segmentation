@@ -24,7 +24,7 @@ Plot the wcss for each iteration, also known as the elbow method plot.
 Predict the clusters and plot them.
 
 ## Program:
-```
+```python
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: NITHISHWAR S
